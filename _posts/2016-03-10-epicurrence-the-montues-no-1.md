@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The non-conference of epic proportions
-datePublished: '2016-03-10T21:07:06.446Z'
-dateModified: '2016-03-10T21:06:54.256Z'
+datePublished: '2016-03-10T21:07:48.205Z'
+dateModified: '2016-03-10T21:07:15.236Z'
 title: Epicurrence - The Montues No. 1
 author: []
+sourcePath: _posts/2016-03-10-epicurrence-the-montues-no-1.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-epicurrence-the-montues-no-1.md
-published: true
 url: epicurrence-the-montues-no-1/index.html
 _type: Article
 
