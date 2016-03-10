@@ -1,7 +1,7 @@
 name: fhlcreative
 favicon: null
-layout_spectrum: 0.5374691865872592
-typography_spectrum: 0.2768834449816495
+layout_spectrum: 1
+typography_spectrum: 0.96011
 cta:
   domain: null
   bucket: null
